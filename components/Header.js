@@ -23,7 +23,7 @@ const Header = () => {
       <Image
         width={200}
         height={100}
-        classname="object-contain"
+        className="object-contain"
         src="https://press.hulu.com/wp-content/uploads/2020/02/hulu-white.png"
       />
     </header>
